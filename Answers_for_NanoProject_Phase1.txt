@@ -1,0 +1,25 @@
+What did Webflow make easy that would have been hard to code by hand?
+
+Answer: Webflow made debugging and organizing the nav links much easier then doing it by hand, sometimes i find that getting multiple items 
+in a containter to line up the exact way you want can be annoying becuase of having to constantly redeploying a application to make sure 
+its in the right style. Having a live preview in the middle of the screen makes it extremely easy when working on the design part of the application
+instead of spending lots of time fixing things in the CSS page. I could drag and drop and adjust padding and allignment with a real time visual 
+without touching code, also making containers and being able to drag things in 
+and out of them made things much much easier
+
+What could Webflow not do that code can?
+
+Answer: when I exported the site as static HTML the blog posts didn't come with it.Webflow also couldn't easily do custom interactions 
+like the cookie banner — that required dropping into real JavaScript via Claude Code. Complex logic, custom animations, and third party 
+integrations all hit walls in Webflow that code doesn't have. Once i have started using webflow more im sure i can figure out ways to do more then i 
+expect i can do at this moment.
+
+
+What percentage of the work did Claude do vs. you?
+
+Answer: I would say Claude probably did the majority, about 65 - 70% Claude generate most of the content and helped with deciding on 
+most technical decisions like brand identity, color palette, page contents and blog posts. But I made every click, every drag, every export and 
+push decision. Claude gave me suggestions that i tried to implement into the website and if i didn't like the way it looked, i would redesign or 
+make changes with claude giving me some advice or suggestions. The judgment calls — what looked right, what to keep, what to change — were all mine. 
+I really do enjoy using claude but knowing what looks good and bad is something Claude will not be able to figure out without some feedback from 
+the user.

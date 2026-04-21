@@ -187,6 +187,10 @@
   display: flex;
 }
 
+.nav-menu-wrapper {
+  display: block;
+}
+
 .nav-menu-two {
   justify-content: space-between;
   align-items: center;
